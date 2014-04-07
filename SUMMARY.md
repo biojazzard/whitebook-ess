@@ -2,8 +2,8 @@
 
 Sumario de la Memoria
 
-* [Indice](index.md)
-* [Introducción](intro/index.md)
+* [Indice](intro/index.md)
+* [Introducción](intro/intro.md)
 * [Público objetivo](public/index.md)
 * [Objetivos y estrategias](strategies/index.md)
     * [Objetivos](strategies/strategies.md)
