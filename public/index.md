@@ -1,14 +1,12 @@
-# Introducción
+# Público objetivo
 
-El objetivo del siguiente informe es ofertar 
-nuestra propuesta de diseño y arquitectura de 
-contenidos para el sitio web de ESS Bilbao.
+Los contenidos del sitio web deben cubrir las 
+necesidades de nuestro público y lograr así un 
+sitio web útil y eficaz. Estos usuarios conforman 
+nuestro público objetivo:
 
-Para su elaboración hemos tenido en cuenta las 
-necesidades expuestas por el cliente, el análisis 
-de otros sitios web de referencia y las tendencias 
-actuales de Internet. 
+## Público general
 
-A continuación detallamos las estrategias a seguir 
-para alcanzar los objetivos marcados y la 
-propuesta de diseño y arquitectura web.
+## Otros centros
+
+## La red 
